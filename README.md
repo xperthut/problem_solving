@@ -1,2 +1,2 @@
 # problem_solving
-Coding challenges
+1. [Weird Algorithm]()
